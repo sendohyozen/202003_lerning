@@ -16,3 +16,6 @@ hello()        #运行函数hello()
 shaonian = Test()   #Test类的实例化
 print(shaonian.strClass)   #打印实例属性
 shaonian.go()       #调用实例方法go方法
+
+
+# 这是一段测试
